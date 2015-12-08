@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr format="reference" name="verticalDrawerArrowStyle"/>
+
+    <declare-styleable name="VerticalDrawerArrowToggle">
+        <attr name="vdad_color" format="color"/>
+        <attr name="vdad_thickness" format="dimension"/>
+        <attr name="vdad_spinBars" format="boolean"/>
+        <attr name="vdad_gapBetweenBars" format="dimension"/>
+        <attr name="vdad_drawableSize" format="dimension"/>
+        <attr name="vdad_barLength" format="dimension"/>
+        <attr name="vdad_arrowHeadLength" format="dimension"/>
+        <attr name="vdad_arrowShaftLength" format="dimension"/>
+    </declare-styleable>
+</resources>

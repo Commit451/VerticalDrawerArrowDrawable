@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="VerticalDrawerArrowToggle">
+        <item name="vdad_color">?android:attr/textColorSecondary</item>
+        <item name="vdad_spinBars">true</item>
+        <item name="vdad_thickness">@dimen/vdad_thickness</item>
+        <item name="vdad_arrowShaftLength">@dimen/vdad_arrowShaftLength</item>
+        <item name="vdad_arrowHeadLength">@dimen/vdad_arrowHeadLength</item>
+        <item name="vdad_barLength">@dimen/vdad_barLength</item>
+        <item name="vdad_gapBetweenBars">@dimen/vdad_gapBetweenBars</item>
+        <item name="vdad_drawableSize">@dimen/vdad_drawableSize</item>
+    </style>
+
+</resources>

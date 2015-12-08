@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vdad_thickness">2dp</dimen>
+    <dimen name="vdad_arrowShaftLength">16dp</dimen>
+    <dimen name="vdad_arrowHeadLength">8dp</dimen>
+    <dimen name="vdad_barLength">18dp</dimen>
+    <dimen name="vdad_gapBetweenBars">3dp</dimen>
+    <dimen name="vdad_drawableSize">24dp</dimen>
+</resources>

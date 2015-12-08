@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vdad_barLength">18.66dp</dimen>
+    <dimen name="vdad_gapBetweenBars">3.33dp</dimen>
+    <dimen name="vdad_drawableSize">24dp</dimen>
+</resources>
